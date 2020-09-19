@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/linn"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:text="hey"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:id="@+id/itemname"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:text="hey"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:id="@+id/totalcost"/>
+
+
+</LinearLayout>
